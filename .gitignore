@@ -1,0 +1,6 @@
+node_modules/
+.npm-cache/
+server/aptiprep.db
+server/dist/
+client/dist/
+*.tsbuildinfo
